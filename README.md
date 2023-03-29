@@ -2,6 +2,8 @@
 
 I'm currently learning HTML, CSS, JavaScript, and MEAN stack.
 
+I'm a ninja programmer in Coding Dojo Latam.
+
 
 <!--
 **Valevmu/valevmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
